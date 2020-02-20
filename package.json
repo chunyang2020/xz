@@ -1,0 +1,19 @@
+{
+  "name": "xz",
+  "version": "1.0.0",
+  "description": "xuezi shopping mall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chunyang2020/xz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chunyang2020/xz/issues"
+  },
+  "homepage": "https://github.com/chunyang2020/xz#readme"
+}
